@@ -66,7 +66,11 @@ Universidad Nacional de Mar del Plata
 
 Score: 8.97 (out of 10)
 
+## Languages
 
+English. B2 or similar. TOEFL ITP score (2015): 623 (out of 677)
+
+Spanish. Native language.
 
 ## Publications
 
