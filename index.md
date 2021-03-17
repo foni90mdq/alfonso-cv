@@ -4,7 +4,7 @@ title: Alfonso Pepe
 >>>>>>>
 ---
 # Alfonso Pepe
-<img src="D:\Home\Imágenes\foto.jpg" style="zoom:33%;" />
+<img src="foto.jpg" style="zoom:33%;" />
 
 Chemist, Biochemist, Ph.D. 
 
