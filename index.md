@@ -12,7 +12,7 @@ Chemist, Biochemist, Ph.D.
 
 ## Currently
 
-I´m a Postdoctoral fellow in Biomedical Polymers Division, INTEMA (http://www3.fi.mdp.edu.ar/biomat/?lang=en). I´m currently working in the synthesis and characterization of electrospun polyurethanes used to coat biomedical devices.
+I´m a Postdoctoral fellow in Biomedical Polymers Division, [INTEMA](http://www3.fi.mdp.edu.ar/biomat/?lang=en).  I´m currently working in the synthesis and characterization of electrospun polyurethanes used to coat biomedical devices.
 
 I also have a teaching position in the Chemistry Department of my University. I´m in charge of the Labs and problem solving classes in a Physical Chemistry course (Thermodynamics and quantum mechanics) and in a introductory Chemistry course.
 
