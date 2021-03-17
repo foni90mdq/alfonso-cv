@@ -72,10 +72,7 @@ Score: 8.97 (out of 10)
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Aca van los premios
 
 
 
