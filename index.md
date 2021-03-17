@@ -12,7 +12,7 @@ Chemist, Biochemist, Ph.D.
 
 ## Currently
 
-I´m a Postdoctoral fellow in Biomedical Polymers Division, [INTEMA](http://www3.fi.mdp.edu.ar/biomat/?lang=en).  I´m currently working in the synthesis and characterization of electrospun polyurethanes used to coat biomedical devices.
+I´m a Postdoctoral fellow in [Biomedical Polymers Division](http://www3.fi.mdp.edu.ar/biomat/?lang=en), INTEMA.  I´m currently working in the synthesis and characterization of electrospun polyurethanes used to coat biomedical devices.
 
 I also have a teaching position in the Chemistry Department of my University. I´m in charge of the Labs and problem solving classes in a Physical Chemistry course (Thermodynamics and quantum mechanics) and in a introductory Chemistry course.
 
@@ -42,7 +42,7 @@ Thesis title: "Evaluation of plant proteases as new thrombolytic and antiplatele
 
 Universidad Nacional de Mar del Plata
 
-#### Industrial disciplines teacher
+#### Industrial disciplines teacher (2 years program)
 
 2014-2015
 
@@ -76,23 +76,21 @@ Alfonso Pepe; M. Gabriela Guevara; Gustavo A. Abraham, Dr. Pablo C. Caracciolo. 
 Florencia Rocio Tito; Alfonso Pepe, Dr; Gustavo Raul Daleo, Maria Gabriela Guevara. Optimization of caseinolytic activity of two Solanum tuberosum aspartic proteases by response surface methodology
 *Sent for publication to  Biotechnology reports (jenuary 2021)*</u>
 
-Tito, F. R., Pepe, A., Tonon, C. V., Daleo, G. R., & Guevara, M. G. (2020). Determination and characterisation of milk-clotting activity of two Solanum tuberosum aspartic proteases (StAPs). *International Dairy Journal*, *104*, 104645. https://doi.org/10.1016/j.idairyj.2020.104645
+Tito, F. R., Pepe, A., Tonon, C. V., Daleo, G. R., & Guevara, M. G. (2020). [Determination and characterisation of milk-clotting activity of two Solanum tuberosum aspartic proteases (StAPs).](https://doi.org/10.1016/j.idairyj.2020.104645) *International Dairy Journal*, *104*, 104645.
 
-Rivero, G., Meuter, M., Pepe, A., Guevara, M. G., Boccaccini, A. R., & Abraham, G. A. (2020). Nanofibrous membranes as smart wound dressings that release antibiotics when an injury is infected. *Colloids and Surfaces A: Physicochemical and Engineering Aspects*, *587*, 124313. https://doi.org/10.1016/j.colsurfa.2019.124313
+Rivero, G., Meuter, M., Pepe, A., Guevara, M. G., Boccaccini, A. R., & Abraham, G. A. (2020). [Nanofibrous membranes as smart wound dressings that release antibiotics when an injury is infected](https://doi.org/10.1016/j.colsurfa.2019.124313). *Colloids and Surfaces A: Physicochemical and Engineering Aspects*, *587*, 124313. 
 
-Pepe, A., Tito, F. R., Daleo, G. R., & Guevara, M. G. (2019). Optimization of fibrinogenolytic activity of Solanum tuberosum subtilisin-like protease (StSBTc-3) by response surface methodology. *Biotechnology Reports*, *22*, e00330. https://doi.org/10.1016/j.btre.2019.e00330
+Pepe, A., Tito, F. R., Daleo, G. R., & Guevara, M. G. (2019). [Optimization of fibrinogenolytic activity of Solanum tuberosum subtilisin-like protease (StSBTc-3) by response surface methodology]( https://doi.org/10.1016/j.btre.2019.e00330). *Biotechnology Reports*, *22*, e00330.
 
-Frey, M. E., D'ippólito, S., Pepe, A., Daleo, G. R., & Guevara, M. G. (2018). Transgenic expression of plant-specific insert of potato aspartic proteases (StAP-PSI) confers enhanced resistance to Botrytis cinerea in Arabidopsis thaliana. *Phytochemistry*, *149*, 1-11. https://doi.org/10.1016/j.phytochem.2018.02.004
+Frey, M. E., D'ippólito, S., Pepe, A., Daleo, G. R., & Guevara, M. G. (2018).[Transgenic expression of plant-specific insert of potato aspartic proteases (StAP-PSI) confers enhanced resistance to Botrytis cinerea in Arabidopsis thaliana]( https://doi.org/10.1016/j.phytochem.2018.02.004). *Phytochemistry*, *149*, 1-11.
 
-Suárez-González L, Sanabria-Alba L, García D, et al. Manifestación inusual de mieloma múltiple activo. Disfibrinogenemia adquirida e inhibidor del factor V. Rev Hematol Mex. 2017;18(2):92-98. https://www.medigraphic.com/pdfs/hematologia/re-2017/re172f.pdf
+Suárez-González L, Sanabria-Alba L, García D, et al. [Manifestación inusual de mieloma múltiple activo. Disfibrinogenemia adquirida e inhibidor del factor V](https://www.medigraphic.com/pdfs/hematologia/re-2017/re172f.pdf). Rev Hematol Mex. 2017;18(2):92-98. 
 
-Pepe, A., Frey, M. E., Muñoz, F., Fernández, M. B., Pedraza, A., Galbán, G., ... & Guevara, M. G. (2016). Fibrin (ogen) olytic and antiplatelet activities of a subtilisin-like protease from Solanum tuberosum (StSBTc-3). *Biochimie*, *125*, 163-170. https://doi.org/10.1016/j.biochi.2016.03.015
+Pepe, A., Frey, M. E., Muñoz, F., Fernández, M. B., Pedraza, A., Galbán, G., ... & Guevara, M. G. (2016). [Fibrin (ogen) olytic and antiplatelet activities of a subtilisin-like protease from Solanum tuberosum (StSBTc-3)](https://doi.org/10.1016/j.biochi.2016.03.015). *Biochimie*, *125*, 163-170.
 
 ### Book chapters
 
-PEPE, ALFONSO; TITO, FLORENCIA ROCIO; GUEVARA, MARIA GABRIELA. Proteases affecting blood coagulation and fibrinolysis from plants. From: Biotechnological applications of plant proteolytic enzymes. Eds: GUEVARA, MARIA GABRIELA; DALEO, GUSTAVO RAÚL. Springer Nature. 2018. p 129 - 141 - . isbn 978-3-319-97132-2_6. https://www.springer.com/gp/book/9783319971315
-
-
+PEPE, ALFONSO; TITO, FLORENCIA ROCIO; GUEVARA, MARIA GABRIELA. [Proteases affecting blood coagulation and fibrinolysis from plants. From: Biotechnological applications of plant proteolytic enzymes]( https://www.springer.com/gp/book/9783319971315). Eds: GUEVARA, MARIA GABRIELA; DALEO, GUSTAVO RAÚL. Springer Nature. 2018. p 129 - 141 - . isbn 978-3-319-97132-2_6.
 
 
 
@@ -160,6 +158,18 @@ Fellowship for advanced student. Universidad Nacional de Mar del Plata. 2012-201
 
 Training fellowship for students. CIC. 2011-2013. Computational simulations on pre-drugs discovered in Argentina. 
 
+
+
+### Teaching experience
+
+Head of Labs and problem solving classes from 2018 to present. Physical Chemistry and Introduction to Chemistry.
+
+Teacher Aid (as graduate) from 2009 to present. Physical Chemistry and Introduction to Chemistry.
+
+Teacher Aid (as student) form 2009 to 2014. Several courses through out the graduate program.
+
+
+
 ## Awards
 
 Argentinian Chemistry Association Award. Honor mention for top grade during undergraduate program. 2014.
@@ -167,6 +177,10 @@ Argentinian Chemistry Association Award. Honor mention for top grade during unde
 Highest academic average during undergraduate program, Rotary Club Mar del Plata. 2014.
 
 
+
+### Other interests
+
+I´m very interested in science and tech in general. Also I enjoy books, bicycles and woodworking. Above all things I love mi little dog Morgana.
 
 <!-- ### Footer
 
