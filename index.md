@@ -4,6 +4,8 @@ title: Alfonso Pepe
 >>>>>>>
 ---
 # Alfonso Pepe
+<img src="D:\Home\Imágenes\foto.jpg" style="zoom:33%;" />
+
 Chemist, Biochemist, Ph.D. 
 
 email: pepealfonso22@gmail.com
@@ -148,15 +150,15 @@ Teaching chemistry and physics, 24 h
 
 ## Fellowships
 
-Postdoctoral fellowship granted by CONICET. 2019-2022. Enhancement of hemocompatibility trough surface modification of polyurethane electrospun membranes.
+**Postdoctoral fellowship** granted by CONICET. 2019-2022. Enhancement of hemocompatibility trough surface modification of polyurethane electrospun membranes.
 
-Fulbraight fellowship. University of Kentucky. 2016. Interaction between platelets and plant proteases.
+**Fulbright fellowship**. University of Kentucky. 2016. Interaction between platelets and plant proteases.
 
-Doctoral fellowship granted by CONICET. 2014-2019. Evaluation of proteases as new antiplatelet and thrombolytic compounds.
+**Doctoral fellowship**. granted by CONICET. 2014-2019. Evaluation of proteases as new antiplatelet and thrombolytic compounds.
 
-Fellowship for advanced student. Universidad Nacional de Mar del Plata. 2012-2013. Computational chemistry to model tyrosinase inhibitor mechanisms.
+**Fellowship for advanced student**. Universidad Nacional de Mar del Plata. 2012-2013. Computational chemistry to model tyrosinase inhibitor mechanisms.
 
-Training fellowship for students. CIC. 2011-2013. Computational simulations on pre-drugs discovered in Argentina. 
+**Training fellowship for students.** CIC. 2011-2013. Computational simulations on pre-drugs discovered in Argentina. 
 
 
 
