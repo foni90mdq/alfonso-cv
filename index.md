@@ -1,5 +1,4 @@
 ---
-layout: cv
 title: Alfonso Pepe's CV
 ---
 # Alfonso Pepe
