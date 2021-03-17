@@ -6,7 +6,7 @@ title: Alfonso Pepe
 # Alfonso Pepe
 Chemist, Biochemist, Ph.D. 
 
-<a href="pepealfonso22@gmail.com">pepealfonso22@gmail.com</a>
+email: pepealfonso22@gmail.com
 
 
 
