@@ -16,7 +16,7 @@ I´m a Postdoctoral fellow in Biomedical Polymers Division, INTEMA (http://www3.
 
 I also have a teaching position in the Chemistry Department of my University. I´m in charge of the Labs and problem solving classes in a Physical Chemistry course (Thermodynamics and quantum mechanics) and in a introductory Chemistry course.
 
-### Skills
+## Skills
 
 **Molecular biology:** cloning and expression, electrophoresis, ELISA, enzymatic activity assays, enzyme kinetics, 
 
@@ -27,7 +27,7 @@ I also have a teaching position in the Chemistry Department of my University. I�
 **Informatics:** bioinformatic (phylogenetic trees, MSA, domain search, sequence analysis, etc.), R (statistical analysis, optimization trough response surface methodology, design of experiments), Latex, python (I can write algorithms, define functions, classes, data representation, etc)
 
 
-### Research interests
+## Research interests
 
 Molecular biology, biochemistry, material science.
 
@@ -116,7 +116,7 @@ PEPE, ALFONSO; CHAME, DAVID; CURTI, MARIANO; IVANOVA, IRINA; TITO, FLORENCIA; BA
 
 ## Grad school courses
 
-Programing in Python,  64 h
+Programming in Python,  64 h
 
 Introduction to group theory, 24 h
 
@@ -148,9 +148,17 @@ Teaching chemistry and physics, 24 h
 
 
 
-## 
+## Fellowships
 
+Postdoctoral fellowship granted by CONICET. 2019-2022. Enhancement of hemocompatibility trough surface modification of polyurethane electrospun membranes.
 
+Fulbraight fellowship. University of Kentucky. 2016. Interaction between platelets and plant proteases.
+
+Doctoral fellowship granted by CONICET. 2014-2019. Evaluation of proteases as new antiplatelet and thrombolytic compounds.
+
+Fellowship for advanced student. Universidad Nacional de Mar del Plata. 2012-2013. Computational chemistry to model tyrosinase inhibitor mechanisms.
+
+Training fellowship for students. CIC. 2011-2013. Computational simulations on pre-drugs discovered in Argentina. 
 
 ## Awards
 
@@ -162,6 +170,6 @@ Highest academic average during undergraduate program, Rotary Club Mar del Plata
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2021 -->
 
 
