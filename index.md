@@ -24,10 +24,9 @@ I also have a teaching position in the Chemistry Department of my University. IÂ
 
 **Hemostasis and thrombosis:** in vitro assays to characterize protein extracts and biomaterials (fibrinogenolytic activity, platelet aggregation, coagulation cascade)
 
-**Biomaterials:** synthesis and characterization of electrospun polyurethanes
+**Biomaterials:** synthesis and characterization of polymers
 
-**Informatics:** bioinformatic (phylogenetic trees, MSA, domain search, sequence analysis, etc.), R (statistical analysis, optimization trough response surface methodology, design of experiments), Latex, Python (I can write algorithms, define functions, classes, data representation, etc)
-
+**Informatics:** bioinformatic (phylogenetic trees, MSA, domain search, sequence analysis, etc.), R (statistical analysis, optimization trough response surface methodology, design of experiments), Latex and Python.
 
 ## Research interests
 
@@ -196,5 +195,5 @@ Highest academic average during undergraduate program, Rotary Club Mar del Plata
 
 ## Other interests
 
-IÂ´m very interested in science and tech in general. Also I enjoy books, bicycles and woodworking. Above all things I love mi little dog Morgana.
+I'm very interested in philosophy. I toke several courses on that subject at my university. Also I enjoy books, bicycles and woodworking. Above all things I love mi little dog Morgana.
 
