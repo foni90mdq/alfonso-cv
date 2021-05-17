@@ -77,7 +77,7 @@ Spanish. Native language.
 ### Papers
 
 Alfonso Pepe; M. Gabriela Guevara; Gustavo A. Abraham; Pablo C. Caracciolo. Surface-modified electrospun poly(carbonate urethane) matrices for improving hemocompatibility response. 
-*Sent for publication to Polymer Journal (April 2021). Currently in evaluation*
+*Sent for publication to Polymer Journal (April 2021). Currently under review.
 
 Florencia Rocio Tito; Alfonso Pepe; Gustavo Raul Daleo, Maria Gabriela Guevara. Optimization of caseinolytic activity of two *Solanum tuberosum* aspartic proteases by response surface methodology. 
 *Sent for publication to Journal of Food Engineering (May 2021)*</u>
@@ -176,13 +176,15 @@ Teaching chemistry and physics, 24 h
 
 
 
-### Teaching experience
+## Teaching experience
 
-Teaching Assistant (as graduate) from 2009 to present. Responsible for teaching a Physical Chemistry and Introduction to Chemistry courses; I organize and lead practical hands-on labs and theory-driven problem-solving classes.
+Teaching Assistant (as graduate) from 2009 to present. Responsible for teaching a Physical Chemistry and Introduction to Chemistry courses. I organize and lead practical hands-on labs and theory-driven problem-solving classes.
 
 Teaching Assistant (as undergraduate) form 2009 to 2014. Several courses through out the graduate program.
 
+### Other teaching experience
 
+Participant of a program at my university designed to provide resources for teachers who work at underprivileged high schools. We develop activities to help teachers bring science closer to their students. Started 2018. Ongoing.
 
 ## Awards
 
@@ -192,12 +194,7 @@ Highest academic average during undergraduate program, Rotary Club Mar del Plata
 
 
 
-### Other interests
+## Other interests
 
 I´m very interested in science and tech in general. Also I enjoy books, bicycles and woodworking. Above all things I love mi little dog Morgana.
-
-<!-- ### Footer
-
-Last updated: March 2021 -->
-
 
